@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">会议助手</string>
+    <string name="meetings_ahead">待开始</string>
+    <string name="meetings_now">进行中</string>
+    <string name="meetings_before">已结束</string>
+    <string name="meeting_list_empty">当前没有会议</string>
+</resources>

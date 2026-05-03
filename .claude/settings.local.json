@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(7z l *)",
+      "Bash(unzip -l \"E:/workspace/VScodelianxi/MeetingAssistant/zh.242.152.zip\")",
+      "Bash(unzip *)",
+      "Bash(zip -u \"../zh.242.152/lib/zh.242.152.jar\" \"META-INF/plugin.xml\")",
+      "Bash(zip -u \"../zh.242.152.zip\" \"zh.242.152/lib/zh.242.152.jar\")",
+      "WebFetch(domain:plugins.jetbrains.com)",
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(python *)"
+    ]
+  }
+}

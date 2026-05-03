@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="reminder_options">
+        <item>关闭提醒</item>
+        <item>提前 15 分钟</item>
+        <item>提前 30 分钟</item>
+    </string-array>
+</resources>
